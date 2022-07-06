@@ -1,6 +1,4 @@
-# Salesforce DX Project: Next Steps
-
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+# Booking Experience Cloud Site
 
 ![Screenshot from 2022-04-04 00-39-45](https://user-images.githubusercontent.com/79991413/177424663-a66f5e81-944d-460a-85af-c2fa5459f876.png)
 
@@ -8,6 +6,9 @@ Now that you’ve created a Salesforce DX project, what’s next? Here are some 
 
 ![Screenshot from 2022-04-04 00-41-55](https://user-images.githubusercontent.com/79991413/177424766-2204bdc3-5fb9-4567-b3b7-25eed9c8b490.png)
 
+# Salesforce DX Project: Next Steps
+
+Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
 ## How Do You Plan to Deploy Your Changes?
 
